@@ -12,7 +12,5 @@
 
 -other purpose for this account is to use as a a place to learn more about github and it's features
 
-### If you wish to contact me:
-e-mail: Redgamer533@gmail.com
 
  
