@@ -1,7 +1,7 @@
 # Hi there, welcome to my github page, i really hope you like my repository, ENJOY!
  -I'm currently a junior developer, back-end and front-end technologies and languages
 
--during free time, i love to start new and interessting projects
+-During free time, i love to start new and interessting projects
 
 --- 
 
