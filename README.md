@@ -1,7 +1,7 @@
 # Hi there, welcome to my github page, i really hope you like my repository, ENJOY!
- -I'm currently a junior developer, back-end and front-end technologies and languages
+ -I'm currently a junior developer, back-end and front-end technologies and languages student.
 
--During free time, i love to start new and interessting projects
+-During free time, i always trie to learn something new and create a project based on that study.
 
 --- 
 
@@ -18,8 +18,8 @@
 
 
 ## What is this acount for?
--the main purpose of this account is to show my projects in python, but also to save my projects in a safe place to track, edit and upgrade my code
+-The main purpose of this account is to show my projects in the programming languagees i use, but also to save my projects in a safe place to track, edit and upgrade my code
 
--other purpose for this account is to use as a a place to learn more about github and it's features
+-Other purpose for this account is to use as a a place to learn more about github and it's features
 
  
