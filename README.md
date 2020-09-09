@@ -21,5 +21,4 @@
 -The main purpose of this account is to show my projects in the programming languagees i use, but also to save my projects in a safe place to track, edit and upgrade my code
 
 -Other purpose for this account is to use as a a place to learn more about github and it's features
-
  
