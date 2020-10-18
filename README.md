@@ -1,4 +1,4 @@
-# Hi there, welcome to my github page, i really hope you like my repository, ENJOY!
+# Hi there, welcome to my github page, i really hope you like my repositorys, ENJOY!
  -I'm currently a junior developer, back-end and front-end technologies and languages student.
 
 -During free time, i always trie to learn something new and create a project based on that study.
