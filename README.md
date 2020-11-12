@@ -26,9 +26,10 @@ When i don't have an idea for a project i usually try to solve coding problems, 
 ---
 
 ## What is this account for? :confused:
-- The main purpose of this account is to show my projects in the programming languages i use, but also to save my projects in a safe place to track, edit and upgrade my code
+- The main purpose of this account is to show my projects in the programming languages i use, but also to save my projects in a safe place to track, edit and upgrade my code.
 
-- Other purpose for this account is to use as a a place to learn more about github and it's features
+- I also would like some help with my projects such as suggestions, new features, best practices, new project ideas or some feedback about them since i am only a beginner.   
+
  
 ### Here are a few other links for my other content:
 #### ***Twitter***: [Click here](https://twitter.com/DAld533)
