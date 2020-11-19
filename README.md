@@ -25,9 +25,15 @@ When i don't have an idea for a project i usually try to solve coding problems, 
 
 ---
 
-## To see more:
+### If you wish to see more:
 <p align="center">
- <a href="https://instagram.com/douglas__aldred" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="douglas__aldred" height="30" width="30" /></a>
+    <a href="https://instagram.com/douglas__aldred" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="douglas__aldred" height="30" width="30" /></a>
+    <a href="https://twitter.com/DAld533" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="do-ald533" height="30" width="30"/></a>
+    <a href="https://dev.to/dald533" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="do-ald533" height="30" width="30"/></a>
+    <a href="https://hub.docker.com/u/doald533" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="doald533" height="30" width="30"/></a> 
+</p>
+    
+
 ---
 
 ## What is this account for? :confused:
@@ -38,5 +44,5 @@ When i don't have an idea for a project i usually try to solve coding problems, 
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=do-ald533&layout=compact&hide=html" alt="do-ald533" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=do-ald533&show_icons=true" alt="do-ald533" width="484 />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=do-ald533&show_icons=true" alt="do-ald533" width="420" />
  
