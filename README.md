@@ -48,3 +48,5 @@ When i don't have an idea for a project i usually try to solve coding problems, 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=do-ald533&show_icons=true" alt="do-ald533" width="420" />
  
  [![Discord](https://img.shields.io/static/v1?label=&logo=discord&message=!do-ald533%230840&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/channels/@me/650426162291408896)
+ [![Repos Badge](https://badges.pufler.dev/repos/do-ald533)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/do-ald533)](https://badges.pufler.dev)
