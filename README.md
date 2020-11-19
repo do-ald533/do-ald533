@@ -25,12 +25,18 @@ When i don't have an idea for a project i usually try to solve coding problems, 
 
 ---
 
+## To see more:
+<p align="center">
+ <a href="https://instagram.com/douglas__aldred" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="douglas__aldred" height="30" width="30" /></a>
+---
+
 ## What is this account for? :confused:
 - The main purpose of this account is to show my projects in the programming languages i use, but also to save my projects in a safe place to track, edit and upgrade my code.
 
 - I also would like some help with my projects such as suggestions, new features, best practices, new project ideas or some feedback about them since i am only a beginner.   
 
+---
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=do-ald533&layout=compact&hide=html" alt="do-ald533" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=do-ald533&show_icons=true" alt="do-ald533" width="484 />
  
-### Here are a few other links for my other content:
-#### ***Twitter***: [Click here](https://twitter.com/DAld533)
-#### ***Docker Hub***: [Click here](https://hub.docker.com/u/doald533)
