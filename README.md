@@ -47,3 +47,4 @@ When i don't have an idea for a project i usually try to solve coding problems, 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=do-ald533&layout=compact&hide=html" alt="do-ald533" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=do-ald533&show_icons=true" alt="do-ald533" width="420" />
  
+ [![Discord](https://img.shields.io/static/v1?label=&logo=discord&message=!do-ald533%230840&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/channels/@me/650426162291408896)
