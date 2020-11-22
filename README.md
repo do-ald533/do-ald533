@@ -28,7 +28,6 @@ When i don't have an idea for a project i usually try to solve coding problems, 
 
 ### If you wish to see more :mag::
 <p align="center">
-    <a href="https://instagram.com/douglas__aldred" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="douglas__aldred" height="30" width="30" /></a>
     <a href="https://twitter.com/DAld533" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="do-ald533" height="30" width="30"/></a>
     <a href="https://dev.to/dald533" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="do-ald533" height="30" width="30"/></a>
     <a href="https://hub.docker.com/u/doald533" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="doald533" height="30" width="30"/></a> 
