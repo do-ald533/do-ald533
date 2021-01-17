@@ -11,7 +11,7 @@
 
 ---
 ## Frameworks i use :floppy_disk:: 
-<img align="left" width="75" height="75" src="https://miro.medium.com/max/700/1*Q5EUk28Xc3iCDoMSkrd1_w.png"/> <img aling="left" width="75" height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" >
+<img align="left" width="75" height="75" src="https://miro.medium.com/max/700/1*Q5EUk28Xc3iCDoMSkrd1_w.png"/> <img align="left" width="75" height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" > <img aling="left" width="75" height="75" src="https://miro.medium.com/max/400/1*5QBUnkCjT_m0amIHeweqGg.png">
 
 
 ---
