@@ -1,8 +1,9 @@
 # Hi there :smiley:, welcome to my github page, i really hope you like my repositories, ENJOY! :grin:
  - I'm currently a junior developer, full stack technologies and languages student.
 
-- During free time, i always try to learn some new language or technology to help on a project based on that study.
+- During free time, i always try to learn some new language, framework or technology to create a project based on that study.
 
+- The language i am most comfortable using is *Python* since it is the first language i learned and it's the language i use the most.
 
 --- 
 
@@ -23,9 +24,9 @@
 ---
 
 ## A little bit more about me :page_facing_up::
-<p>My name is Douglas, i currently only code as a hobby but i also want to work with software development.
+<p>My name is Douglas, i'm 17 years old, i currently only code as a hobby but i also want to work with software development as a full stack developer.
 
-
+Although i am studying to become a full stack developer, i'm more comfortable creating the back-end of the project using *Python*, *Golang* or *JavaScript*.
 
 When i don't have an idea for a project i usually try to solve coding problems. To solve these problems i use the languages: *Python, JavaScript or Golang*.</p> 
 
@@ -42,7 +43,7 @@ When i don't have an idea for a project i usually try to solve coding problems. 
 ---
 
 ## What is this account for? :confused:
-- The main purpose of this account is to show my projects in the programming languages i use, but also to save my projects in a safe place to track, edit and upgrade my code.
+- The main purpose of this account is to show my projects in the programming languages i use, but also to save my projects in a safe place to track, edit and upgrade my code. But most importantly, to learn and evolve.
 
 - I also would like some help with my projects such as suggestions, new features, best practices, new project ideas or some feedback about them since i am only a beginner.   
 
