@@ -7,7 +7,7 @@
 -   The language i am most comfortable using is _Python_ since it is the first language i learned and it's the language i use the most.
 
 ---
-## Curently Learning:open_book::
+## Currently Learning:open_book::
 <div align="center">
 <img width="75" height="75" src="./images/kubernetes.png"> <img width="75" height="75" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-elasticsearch-logo-png-transparent.png" >
 </div>
