@@ -28,7 +28,7 @@
 
 ---
 
-### If you wish to see more :mag
+### If you wish to see more :mag:
 
 <p align="center">
     <a href="https://twitter.com/DAld533" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="do-ald533" height="30" width="30"/></a>
