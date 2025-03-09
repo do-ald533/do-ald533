@@ -1,39 +1,80 @@
+# **Douglas Aldred**  
+**Software Engineer | Data Engineer | AI Enthusiast**  
 
-# Hi there :smiley:, welcome to my github page.
-
-- I'm a junior developer with extensive knowledge in node.js
-
-- Experience with DevOps, frontend and backend areas.
-
-- becoming more immersed in the node.js and deno ecosystem, creating mobile, desktop and web apps to practice the technologies involved.
-
-- During free time, i always try to learn some new language, framework or technology to create a project based on that study.
-
----
-<div align="center">
-<a href="https://app.daily.dev/doald533"><img src="https://api.daily.dev/devcards/fb0f6d9c12574f26b2ae496b13417297.png?r=esc" width="250" alt="Douglas Aldred's Dev Card"/></a>
-</div>
-
-## Currently Learning:open_book:
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" width="75" height="75" />
-    <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" width="75" height="75" />
-</div>
-
-## Languages and tools i use :computer:
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="50" height="50" /> <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="50" height="50" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="50" height="50" /> <img src="https://avatars.githubusercontent.com/u/42048915?s=200&v=4" width="50" height="50" /> <img src="https://avatars.githubusercontent.com/u/21320719?s=200&v=4" width="50" height="50" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" widht="50" height="50" /> <img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" widht="50" height="50" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="50" height="50" /> <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="50" height="50" /> <img src="https://avatars.githubusercontent.com/u/15813386?s=200&v=4" wdith="50" height="50" /> <img src="https://www.gimp.org/images/frontpage/wilber-big.png" width="50" height="50" /> <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" width="50" height="50" /> <img src="https://img.icons8.com/color/344/android-studio--v3.png" width="50" height="50" /> <img src="https://img.icons8.com/fluency/344/visual-studio-code-2019.png" width="50" height="50" />
----
+📧 **Email:** douglas.aldred533@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/douglas-aldred](https://www.linkedin.com/in/douglas-aldred/)  
 
 ---
 
-### If you wish to see more :mag:
+## **About Me** 👋  
+I'm a **Software Engineer and Data Engineer** passionate about **artificial intelligence, large-scale distributed systems, and cloud computing**. My work focuses on **building scalable, high-performance data solutions** for **real-time processing, AI-driven applications, and automation**.  
 
-<p align="center">
-    <a href="https://twitter.com/DAld533" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="do-ald533" height="30" width="30"/></a>
-    <a href="https://dev.to/dald533" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="do-ald533" height="30" width="30"/></a>
-    <a href="https://www.linkedin.com/in/douglas-aldred/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="doald533" height="30" width="30"/></a>
-    <a href="https://www.reddit.com/user/do-ald533" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="doald533" height="30" width="30"/></a>
-    <a href="https://www.codewars.com/users/do-ald533" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="doald533" height="30" width="30"/></a><a href="https://leetcode.com/do-ald533/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="doald533" height="30" width="30"/></a>
-</p>
+### **Interests & Research Areas**  
+📌 **AI & Machine Learning:** Retrieval-Augmented Generation (RAG), Deep Learning, MLOps  
+📌 **Data Engineering:** Big Data Pipelines, ETL, Streaming Architectures (Kafka, Spark)  
+📌 **Software Development:** Cloud-Native Systems, Distributed Computing, API Development  
+📌 **DevOps & Cloud:** Kubernetes, Terraform, AWS Infrastructure  
+
+Currently, I’m exploring **LLMs, real-time data processing, and scalable AI deployment**. I enjoy working on **open-source projects, writing about my findings**, and **collaborating with researchers and engineers** on cutting-edge solutions.  
+
+---
+
+## **Research & Projects** 🚀  
+- **Intelligent Document Processing** – Developed an **OCR & RAG-based AI system** to extract structured insights from unstructured text. Used **LLMs, OpenAI API, and Apache Airflow**.  
+- **Real-Time Data Pipelines for IoT** – Built a **high-throughput event-driven data pipeline** processing **millions of records daily** using **Apache Kafka, Spark Streaming, and AWS Lambda**.  
+- **MLOps Workflow Automation** – Designed an **automated ML pipeline** with **Kubeflow, MLflow, and DVC** for model training, monitoring, and deployment in cloud environments.  
+- **Cloud-Based ETL Framework** – Developed a **serverless ETL framework** on **AWS (Glue, Redshift, Lambda)** to optimize data ingestion and transformation for large-scale datasets.  
+
+---
+
+## **Languages & Technologies** 🛠️  
+
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### **Data Engineering & Big Data**  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)  
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)  
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### **Machine Learning & AI**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFB000?style=for-the-badge&logo=huggingface&logoColor=black)  
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)  
+
+### **Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+---
+
+## **Currently Learning** 📖  
+I'm always looking to expand my knowledge and explore new fields. Currently, I'm diving into:  
+
+- **Advanced Retrieval-Augmented Generation (RAG) for AI applications**  
+- **Optimizing real-time data processing for large-scale analytics**  
+- **Security & Governance in ML models and data pipelines**  
+
+---
+
+## **Connect With Me** 🌍  
+If you're working on **AI, Data Engineering, or Large-Scale Systems**, feel free to connect! I'm always open to **collaborations, discussions, and knowledge sharing**.  
+
+📧 **Email:** douglas.aldred533@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/douglas-aldred](https://www.linkedin.com/in/douglas-aldred/)  
+🔗 **Twitter/X:** [@DAld533](https://twitter.com/DAld533)  
+🔗 **Dev.to:** [dev.to/dald533](https://dev.to/dald533)  
+🔗 **LeetCode:** [leetcode.com/do-ald533](https://leetcode.com/do-ald533/)  
+
+---
+
+## **How to Support My Work** ❤️  
+If you find my projects useful, consider giving a ⭐️ on **GitHub** or reaching out for **collaborations!**  
+
