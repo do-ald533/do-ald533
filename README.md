@@ -60,7 +60,7 @@ I'm always looking to expand my knowledge and explore new fields. Currently, I'm
 
 - **Advanced Retrieval-Augmented Generation (RAG) for AI applications**  
 - **Optimizing real-time data processing for large-scale analytics**  
-- **Security & Governance in ML models and data pipelines**  
+- **Security & Governance in ML models and data pipelines**
 
 ---
 
